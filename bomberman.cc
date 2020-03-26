@@ -1,5 +1,3 @@
-// Implementatie van klasse Mastermind.
-
 #include <iostream>
 #include <fstream>   // om in te lezen
 #include <string>
